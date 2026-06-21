@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Trainer",
+  "description": "上传视频素材并自动通过 Gemini 深度学习框架分析、标注、在浏览器中实时生成并导出 TensorFlow.js 和 PyTorch 框架对应的深度学习模型与配置文件。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
